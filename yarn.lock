@@ -2198,10 +2198,6 @@ json5@^0.5.0, json5@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/json5/-/json5-0.5.1.tgz#1eade7acc012034ad84e2396767ead9fa5495821"
 
-jsstore@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/jsstore/-/jsstore-2.1.2.tgz#ea1593f733907922d307e7389965ee6117c92355"
-
 jstransformer@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/jstransformer/-/jstransformer-1.0.0.tgz#ed8bf0921e2f3f1ed4d5c1a44f68709ed24722c3"
