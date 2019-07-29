@@ -38,12 +38,28 @@
     color #333
     margin-left 100px
     margin-right 100px
+    font-size 11pt
   
   body
     margin 0px
     margin-bottom 5px
     background-color #FFF
     border-radius 15px
+  
+  h1
+    font-size 25pt
+  
+  h2
+    font-size 20pt
+  
+  h3
+    font-size 16pt
+  
+  h4
+    font-size 13pt
+  
+  h5
+    font-size 10pt
   
   .content
     padding 10px
@@ -65,6 +81,7 @@
     border-radius 10px
     padding 5px
     color #CCC
+    font-size 15pt
   
   .subnav
     display none
@@ -114,9 +131,6 @@
     margin-inline-start 0px
     margin-inline-end 0px
     margin 0px
-  
-  .headerText h2
-    font-size 25pt
   
   .headerText h5
     font-style italic

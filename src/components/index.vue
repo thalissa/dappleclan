@@ -111,7 +111,7 @@
      max-width 50px
 
   .name
-    font-size 16pt
+    font-size 13pt
   
   .timeline
     font-size 10pt
