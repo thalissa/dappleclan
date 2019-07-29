@@ -101,6 +101,7 @@
     text-align center
     margin-left 15px
     margin-right 15px
+    display flex
   
   .leader img, .medicineCat img
    max-width 100px
